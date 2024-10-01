@@ -1,14 +1,19 @@
-[
-  {
-    "id": 1,
-    "name": "Reporte",
-    "username": "Reporte",
-    "Descripción": "Hola alet, necesito un reporte del PI20 dentro del TREN ECARE"
-  },
-  {
-    "id": 2,
-    "name": "Despliegue",
-    "username": "Despliegue",
-    "Description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase en el ambiente de producción"
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Reporte",
+      "username": "Reporte",
+      "Descripción": "Hola alet, necesito un reporte del PI20 dentro del TREN ECARE"
+    },
+    {
+      "id": 2,
+      "name": "Despliegue",
+      "username": "Despliegue",
+      "Description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase en el ambiente de producción"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
