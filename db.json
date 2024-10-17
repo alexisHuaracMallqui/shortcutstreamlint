@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Reporte",
       "username": "Reporte",
-      "description": "Hola alet, necesito un reporte de sonarqube del PI20 dentro del TREN ECARE"
+      "description": "Hola alet, necesito un reporte de sonarqube del PI19 dentro del TREN ECARE"
     },
     {
       "id": 2,
       "name": "Despliegue",
       "username": "Despliegue",
-      "description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase en el ambiente de producción"
+      "description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase del team Genesis en el ambiente de desarrollo"
     }
   ],
   "profile": {
