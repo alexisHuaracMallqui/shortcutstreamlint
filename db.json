@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "name": "Despliegue Pipeline",
-      "username": "Despliegue Pipeline",
-      "description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase del team Genesis en el ambiente de desarrollo"
+      "name": "Error en despliegue",
+      "username": "Error en despliegue",
+      "description": "Hola alet, en mi pipeline backend dentro del stage delivery tengo el siguiente error: "
     }
   ],
   "profile": {
