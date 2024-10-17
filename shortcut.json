@@ -2,15 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "name": "Reporte",
-      "username": "Reporte",
-      "Description": "Hola alet, necesito un reporte de sonarqube del PI20 dentro del TREN ECARE"
+      "name": "Reporte Sonarqube",
+      "username": "Reporte Sonarqube",
+      "Description": "Hola alet, necesito un reporte de sonarqube del PI19 dentro del TREN ECARE"
     },
     {
       "id": 2,
-      "name": "Despliegue",
-      "username": "Despliegue",
-      "Description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase en el ambiente de producción"
+      "name": "Despliegue Pipeline",
+      "username": "Despliegue Pipeline",
+      "Description": "Hola alet necesito que despliegues el microservicio ms-genesis-mavenbase del team Genesis en el ambiente de producción"
     }
   ],
   "profile": {
