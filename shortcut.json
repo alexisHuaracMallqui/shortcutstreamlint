@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "name": "Reporte Sonarqube",
-      "username": "Reporte Sonarqube",
+      "name": "Reporte Sonar",
+      "username": "Reporte Sonar",
       "Description": "Hola alet, necesito un reporte de sonarqube del PI19 dentro del TREN ECARE"
     },
     {
