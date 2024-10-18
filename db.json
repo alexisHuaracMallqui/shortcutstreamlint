@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Reporte Sonarqube",
       "username": "Reporte Sonarqube",
-      "description": "Hola alet, necesito un reporte de sonarqube del PI20 dentro del TREN ECARE"
+      "description": "Hola alet, necesito un reporte de sonarqube del PI20 dentro del TREN ECARE "
     },
     {
       "id": 2,
       "name": "Error en despliegue",
       "username": "Error en despliegue",
-      "description": "Hola alet, en mi pipeline backend dentro del stage delivery tengo el siguiente error: "
+      "description": "Hola alet, en mi pipeline backend dentro del stage delivery tengo el siguiente error:  "
     }
   ],
   "profile": {
