@@ -11,6 +11,12 @@
       "name": "Error en despliegue",
       "username": "Error en despliegue",
       "description": "Hola alet, en mi pipeline backend dentro del stage delivery tengo el siguiente error:  "
+    },
+    {
+      "id": 3,
+      "name": "Despliegue de Pipelines",
+      "username": "Despliegue de Pipelines",
+      "description": "Hola alet, necesito que me generes un reporte de las ejecuciones de pipelines de la última semana del TREN ATHENAS:  "
     }
   ],
   "profile": {
